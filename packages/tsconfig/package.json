@@ -1,0 +1,15 @@
+{
+  "name": "@amaurymartiny/tsconfig",
+  "version": "1.0.0",
+  "author": "Amaury Martiny <amaury.martiny@protonmail.com>",
+  "description": "Mostly common-sense configuration for tsconfig",
+  "files": [
+    "tsconfig.json"
+  ],
+  "license": "MIT",
+  "main": "tsconfig.json",
+  "repository": "https://github.com/amaurymartiny/config",
+  "scripts": {
+    "test": "eslint test/**/*"
+  }
+}
