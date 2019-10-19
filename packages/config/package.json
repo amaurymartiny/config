@@ -5,10 +5,9 @@
   "description": "Mostly common-sense configuration for tsconfig",
   "files": [],
   "license": "MIT",
-  "main": "tsconfig.json",
   "repository": "https://github.com/amaurymartiny/config",
   "dependencies": {
     "@amaurymartiny/eslintrc": "^1.0.1",
-    "@amaurymartiny/tsconfig": "^1.0.1"
+    "@amaurymartiny/tsconfig": "^1.0.0"
   }
 }
