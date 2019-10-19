@@ -21,7 +21,7 @@ And follow the Get Started guides of the following configs:
 
 ## Configs
 
-| Package                   | Description                 | Docs                           |
-| ------------------------- | --------------------------- | ------------------------------ |
-| `@amaurymartiny/eslintrc` | Config files for `eslint`   | [README](./packages/eslintrc/) |
-| `@amaurymartiny/tsconfig` | Config files for `tsconfig` | [README](./packages/tsconfig/) |
+| Package                   | Description                 | Docs                            |
+| ------------------------- | --------------------------- | ------------------------------- |
+| `@amaurymartiny/eslintrc` | Config files for `eslint`   | [README](../packages/eslintrc/) |
+| `@amaurymartiny/tsconfig` | Config files for `tsconfig` | [README](../packages/tsconfig/) |
