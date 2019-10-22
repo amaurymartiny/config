@@ -1,6 +1,6 @@
 {
   "name": "@amaurymartiny/config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Amaury Martiny <amaury.martiny@protonmail.com>",
   "description": "Mostly common-sense configuration files for `eslint` and `tsconfig`",
   "files": [],
