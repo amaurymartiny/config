@@ -1,16 +1,20 @@
-# `@amaurymartiny/config`
-
 [![npm](https://img.shields.io/npm/v/@amaurymartiny/config.svg)](https://www.npmjs.com/package/@amaurymartiny/config)
 ![License](https://img.shields.io/npm/l/@amaurymartiny/config)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![Buy me a tree](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-lightgreen)](https://offset.earth/amaurymartiny)
 
-💯 Mostly common-sense configuration files for `eslint` and `tsconfig`.
+<br /><br /><br />
+
+<h1 align="center">`@amaurymartiny/config`</h1>
+<h4 align="center">💯 Mostly common-sense configuration files for `eslint` and `tsconfig`.
+</h4>
+
+<br /><br /><br />
 
 [`@amaurymartiny/config`](https://www.npmjs.com/package/@amaurymartiny/config) serves as bundle package for the following smaller packages:
 
-- [`@amaurymartiny/eslintrc`](https://www.npmjs.com/package/@amaurymartiny/eslintrc)
-- [`@amaurymartiny/tsconfig`](https://www.npmjs.com/package/@amaurymartiny/tsconfig)
+✅ [`@amaurymartiny/eslintrc`](https://www.npmjs.com/package/@amaurymartiny/eslintrc)
+✅ [`@amaurymartiny/tsconfig`](https://www.npmjs.com/package/@amaurymartiny/tsconfig)
 
 So you can either add `@amaurymartiny/config` as a whole, or you can install the smaller parts individually. Since you are adding these packages as `devDependencies`, it should not add any overhead to your final bundle size.
 
