@@ -4,8 +4,11 @@
   "license": "MIT",
   "repository": "https://github.com/amaurymartiny/config",
   "private": true,
+  "scripts": {
+    "deploy": "lerna version --conventional-commits --no-push"
+  },
   "workspaces": [
-    "packages/eslintrc"
+    "packages/*"
   ],
   "devDependencies": {
     "lerna": "^3.18.1",
