@@ -14,7 +14,10 @@ module.exports = {
   },
   plugins: ['react', '@typescript-eslint', 'prettier', 'simple-import-sort'],
   rules: {
-    'simple-import-sort/sort': 'error'
+    // Sort imports
+    'simple-import-sort/sort': 'error',
+    // https://github.com/eslint/eslint/issues/2321#issuecomment-134665757
+    'no-unused-vars': [2, { args: 'all', argsIgnorePattern: '^_' }]
   },
   settings: {
     react: {
