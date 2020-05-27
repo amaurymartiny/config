@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/amaurymartiny/config/compare/v1.1.0...v1.2.0) (2020-05-27)
+
+**Note:** Version bump only for package config
+
+
+
+
+
 ## 1.1.0 (2020-03-23)
 
 * chore(deps-dev): bump typescript from 3.7.4 to 3.7.5 (#51) ([d513a92](https://github.com/amaurymartiny/config/commit/d513a92)), closes [#51](https://github.com/amaurymartiny/config/issues/51)

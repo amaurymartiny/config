@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/amaurymartiny/config/compare/v1.1.0...v1.2.0) (2020-05-27)
+
+**Note:** Version bump only for package @amaurymartiny/eslintrc
+
+
+
+
+
 ## 1.1.0 (2020-03-23)
 
 * chore(deps): bump @typescript-eslint/eslint-plugin from 2.16.0 to 2.17.0 (#53) ([8fdbb00](https://github.com/amaurymartiny/config/commit/8fdbb00)), closes [#53](https://github.com/amaurymartiny/config/issues/53)
